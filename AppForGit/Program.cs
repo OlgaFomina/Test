@@ -10,6 +10,8 @@ namespace AppForGit
     {
         static void Main(string[] args)
         {
+                        Console.Read();
+
         }
     }
 }
