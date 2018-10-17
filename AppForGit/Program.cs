@@ -12,6 +12,8 @@ namespace AppForGit
         {
             Console.Write("Hello");
             Console.Write("Hello world");
+            Console.Write("Hello2");
+
         }
     }
 }
